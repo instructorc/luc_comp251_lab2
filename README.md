@@ -28,7 +28,8 @@ All relationships are identified including the relationships that are formed whe
 ### Deliverable 2 (5 Points)
 The ReadMe.md file is updated to reflect the relationships. The relationships adhere to the following bullet points below.
 - Entity names are uppercase and bolded
-- The connecting verb is underlined
+- The connecting verb is <ins>underlined</ins>
+
 - Bi-direction of the relationship is represented
 
 
