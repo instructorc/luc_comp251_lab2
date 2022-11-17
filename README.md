@@ -1,4 +1,4 @@
-# Lab 1 - Conceptual Modeling using Draw.io
+# Lab 2 - Conceptual Modeling using Draw.io
 This lab will meet each of the objectives below:
 1. Determine appropriate entity structure for relational databases
 
