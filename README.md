@@ -7,7 +7,7 @@ This lab will meet meet the following course objectives:
 3. Design an ER model
 
 ## Instructions
-For this lab, you will practice writing business rules that describe the relationship between entities.  Using the school ER diagram below, you will write out each of the relationships between the entities and recreate a conceptual ER diagram illustrating the relationships represented in the diagram below.
+In this lab, you will practice writing business rules that describe the relationships between entities. Using the school ER diagram below, you will write and recreate a conceptual ER diagram illustrating the depicted relationships.
 
 ![alt text](https://instructorc.github.io/site/home/images/school_ERD.PNG)
 
